@@ -8,5 +8,5 @@ Your Arduino code. [code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab5/blob/
 
 At least one photo of your box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
-A video of your box in action.
+A video of your box in action. [Video](https://www.youtube.com/watch?v=Jgysl58hplI&feature=share)
 
